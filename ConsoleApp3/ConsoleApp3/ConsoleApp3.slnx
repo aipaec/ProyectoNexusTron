@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../NexusGUI/NexusGUI.csproj" Id="4421b83e-7401-4577-8985-89b1ae889b0b" />
+  <Project Path="ConsoleApp3.csproj" />
+</Solution>
