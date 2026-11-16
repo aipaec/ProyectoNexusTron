@@ -20,6 +20,12 @@ Esta carpeta contiene los bocetos visuales del videojuego NEXUS V2.0, diseñados
 
 ## Nota
 
+## 5. Diagrama de arquitectura
+
+El diagrama general de la arquitectura propuesta muestra cómo se conectan el jugador, Windows Forms, la lógica del juego y SQL Server.
+
+[Ver diagrama de arquitectura](../arquitectura-propuesta.md#4-diagrama-de-arquitectura)
+
 Estas imágenes son propuestas visuales conceptuales y no representan capturas de una versión funcional del videojuego.
 
 La implementación de las pantallas se realizará posteriormente utilizando C# y Windows Forms.
