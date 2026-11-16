@@ -75,7 +75,7 @@ Algunos efectos de los objetos todavía son parciales o se limitan a mostrar men
 
 El sistema contiene objetivos relacionados con:
 
-1. Investigar la anomalía ubicada en las coordenadas (2,2)..
+1. Investigar la anomalía ubicada en las coordenadas (2,2).
 2. Encontrar el Disco Madre.
 3. Neutralizar a CLU.
 4. Llegar al Portal I/O ubicado en (0,0).
