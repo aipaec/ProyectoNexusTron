@@ -1,7 +1,49 @@
-# Proyecto NEXUS - Programación II Hito 3
-Simulación multidimensional en consola (C# / .NET) basada en el universo de Tron.
+
+# NEXUS V2.0 — TRON GRID EDITION
+
+Videojuego inspirado en el universo de TRON, desarrollado como proyecto académico en C# y .NET.
+
+## Estado actual
+
+El proyecto cuenta con una versión inicial de consola que contiene las mecánicas principales de exploración, entidades, misiones e inventario.
+
+También existe un proyecto inicial de interfaz gráfica desarrollado con Windows Forms.
+
+## Evolución propuesta
+
+NEXUS V2.0 busca evolucionar hacia un videojuego de escritorio con:
+
+- Interfaz gráfica Windows Forms.
+- Exploración con mapa de vista superior.
+- Sistema de misiones y combate.
+- Inventario de objetos.
+- Guardado y recuperación de partidas mediante SQL Server.
+
+Estas funcionalidades forman parte del diseño propuesto y su implementación se realizará progresivamente.
+
+## Documentación
+
+La documentación del proyecto se encuentra en la carpeta [docs](docs/).
+
+Incluye:
+
+- Diseño del videojuego.
+- Arquitectura actual.
+- Arquitectura propuesta.
+- Modelo de datos.
+- Análisis técnico.
+- Evidencias visuales.
+
+## Tecnologías
+
+- C#
+- .NET
+- Windows Forms
+- SQL Server (propuesto)
 
 ## Ejecución
-1. Clonar el repositorio.
-2. Abrir la solución o el archivo Program.cs en Visual Studio.
-3. Compilar y ejecutar la aplicación de consola.
+
+La versión de consola puede abrirse desde Visual Studio utilizando el proyecto correspondiente.
+
+La interfaz gráfica se encuentra en `ConsoleApp3/NexusGUI/`.
+
