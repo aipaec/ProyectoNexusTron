@@ -1,17 +1,25 @@
 # Evidencias del diseño NEXUS V2.0
 
-Esta carpeta contiene los bocetos y diagramas preparados para mostrar cómo se verá y organizará el videojuego NEXUS V2.0.
+Esta carpeta contiene los bocetos visuales del videojuego NEXUS V2.0, diseñados con una estética cyber inspirada en TRON.
 
-## Evidencias previstas
+## 1. Menú principal
 
-1. Boceto del menú principal.
-2. Boceto de la pantalla de exploración y mapa.
-3. Boceto de la pantalla de misiones.
-4. Boceto de la pantalla de exploradores e inventario.
-5. Diagrama general de arquitectura del sistema.
+![Menú principal](<1 · Menú principal@1x.png>)
+
+## 2. Pantalla de exploración
+
+![Exploración](<2 · Exploración@1x.png>)
+
+## 3. Pantalla de misiones
+
+![Misiones](<3 · Misiones@1x.png>)
+
+## 4. Pantalla de inventario
+
+![Inventario](<4 · Inventario@1x.png>)
 
 ## Nota
 
-Los bocetos representan propuestas visuales del diseño. No son capturas de una versión funcional del videojuego.
+Estas imágenes son propuestas visuales conceptuales y no representan capturas de una versión funcional del videojuego.
 
-La implementación de estas pantallas se realizará posteriormente utilizando C# y Windows Forms.
+La implementación de las pantallas se realizará posteriormente utilizando C# y Windows Forms.
