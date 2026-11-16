@@ -1,5 +1,5 @@
 
-# Evidencias del diseño NEXUS V2.0
+# Evidencias del diseño NEXUS V2.0.
 
 Esta carpeta contiene los bocetos visuales del videojuego NEXUS V2.0, diseñados con una estética cyber inspirada en TRON.
 
