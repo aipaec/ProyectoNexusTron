@@ -405,3 +405,7 @@ ConsoleApp3/NexusGUI/Resources/Audio/Music/*.mp3
 
 # Local evidence, builds, and review bundles are not source files.
 /output/
+
+# Artefactos heredados conservados localmente
+/ConsoleApp3.rar
+/win-x64/ConsoleApp3.exe
