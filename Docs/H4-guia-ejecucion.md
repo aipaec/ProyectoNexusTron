@@ -54,13 +54,18 @@ La aplicación inicia con la cinemática y luego el menú NOCTRYX. Para usar un 
 
 Los guardados de juego conservan mapa, posición e integridad de ECHO-0. El estado de enemigos y los registros narrativos no se guardan.
 
-## Evidencias de evaluación pendientes
+## Uso de inteligencia artificial y ActivityWatch
+
+Durante la creación y el desarrollo de NOCTRYX: SYSTEM COLLAPSE se utilizaron ChatGPT y Codex como apoyo para la planificación, el diseño de interfaces, la programación, la depuración, la integración con SQL Server y la preparación de la entrega final H4. Estas herramientas asistieron en la generación de propuestas, la implementación de funcionalidades, la identificación de errores y las comprobaciones técnicas.
+
+El estudiante participó en la definición de requisitos, la toma de decisiones y las pruebas manuales, incluida la comprobación de los mapas y de la persistencia de partidas.
+
+ActivityWatch no se utilizó como herramienta de seguimiento verificable durante el desarrollo. No existe un registro verificable de esa actividad y no deben inventarse registros, capturas ni tiempos de actividad. Las evidencias técnicas y las pruebas documentadas se presentan por separado.\n\n## Evidencias de evaluación pendientes
 
 - Capturas propias de SELECT, INSERT, UPDATE, DELETE y mensajes de validación; no reutilizar capturas de código como si fueran ejecución.
 - Evidencia de conexión fallida seguida de recuperación.
-- ActivityWatch: no está instalado ni hubo registro; cualquier evidencia de tiempo debe recopilarse en el equipo del estudiante.
 - Commits identificables en la rama de entrega.
 - Publicar y verificar la rama de pruebas en GitHub.
 - Crear el GitHub Release solo después de revisar el código, ejecutar las pruebas y autorizar la publicación.
 
-Para probar sin acceder a las partidas habituales, crea una instancia LocalDB dedicada, instala allí el esquema y configura NOCTRYX_LOCALDB_SERVER en la sesión que iniciará el juego. La aplicación usa MSSQLLocalDB cuando no se define esa variable.
+Para probar sin acceder a las partidas habituales, crea una instancia LocalDB dedicada, instala allí el esquema y configura NOCTRYX_LOCALDB_SERVER en la sesión que iniciará el juego. La aplicación usa MSSQLLocalDB cuando no se define esa variable.\n\nEl informe de pruebas y la declaración de uso de inteligencia artificial también se encuentran en [H4-informe-evidencias.md](H4-informe-evidencias.md).\n
