@@ -1,3 +1,5 @@
+using NexusGUI.Gameplay;
+
 namespace NexusGUI
 {
     internal static class Program
@@ -11,7 +13,9 @@ namespace NexusGUI
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            using IntroForm intro = new();
+            if (intro.ShowDialog() == DialogResult.OK)
+                Application.Run(new GamePrototypeForm());
         }
     }
 }

@@ -399,3 +399,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Local music assets are not distributed with the public source/release.
+ConsoleApp3/NexusGUI/Resources/Audio/Music/*.mp3
+
+# Local evidence, builds, and review bundles are not source files.
+/output/
